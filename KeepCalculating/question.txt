@@ -1,0 +1,10 @@
+One of our clients needs a command line tool to do some math tasks. Can you create the tool by following pseudo code ?
+
+    Let x = 1
+    Let y = 2
+    Let answer += (x * y) + xy [here xy = 12]
+    Repeat this calculation till you have x = 666
+    The final answer will be the flag when x = 666
+
+Flag Format : KCTF{answer_here}
+Example Flag : KCTF{123}

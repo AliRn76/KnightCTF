@@ -1,0 +1,27 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: tmp.dirb
+START_TIME: Thu Jan 20 21:59:00 2022
+URL_BASE: http://159.223.166.39/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: Not Recursive
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://159.223.166.39/ ----
++ http://159.223.166.39/fuck (CODE:403|SIZE:305)
++ http://159.223.166.39/hardcore (CODE:403|SIZE:305)
++ http://159.223.166.39/nude (CODE:403|SIZE:305)
++ http://159.223.166.39/porn (CODE:403|SIZE:305)
++ http://159.223.166.39/xxx (CODE:403|SIZE:305)
++ http://159.223.166.39/XXX (CODE:403|SIZE:305)
+
+-----------------
+END_TIME: Thu Jan 20 22:34:16 2022
+DOWNLOADED: 4612 - FOUND: 6
